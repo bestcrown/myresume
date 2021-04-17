@@ -1,0 +1,15 @@
+body{
+    margin: 20px,0px,20px, 0px;
+    border: 0;
+    background:#ccc;
+}
+header, h3{
+    background: #fff;
+    color: #23ba22;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.biodata{
+    p: display: flex;
+}
